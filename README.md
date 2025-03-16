@@ -65,7 +65,6 @@ The dataset contains **customer reviews and their sentiment labels (Positive/Neg
 
 - `Review Text`: The actual review
 
-- 
 - `Sentiment Label`: **1 (Positive) / 0 (Negative)**  
 
 
