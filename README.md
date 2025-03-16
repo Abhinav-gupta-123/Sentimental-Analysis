@@ -10,8 +10,6 @@
 
 ![Negative Review](https://raw.githubusercontent.com/Abhinav-gupta-123/Sentimental-Analysis/main/sentiment_analysis/neggative%20review.jpg)
 
-
-
 ![Positive Review](https://raw.githubusercontent.com/Abhinav-gupta-123/Sentimental-Analysis/main/sentiment_analysis/possitive%20review.jpg)
 
 
