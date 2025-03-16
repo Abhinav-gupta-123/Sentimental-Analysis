@@ -8,10 +8,11 @@
 ![Sentiment Analysis]
 
 
-([screenshots/banner.png](https://github.com/Abhinav-gupta-123/Sentimental-Analysis/blob/main/sentiment_analysis/neggative%20review.jpg))
+![Negative Review](https://raw.githubusercontent.com/Abhinav-gupta-123/Sentimental-Analysis/main/sentiment_analysis/neggative%20review.jpg)
 
 
-([screenshots/banner.png](https://github.com/Abhinav-gupta-123/Sentimental-Analysis/blob/main/sentiment_analysis/possitive%20review.jpg))
+
+![Positive Review](https://raw.githubusercontent.com/Abhinav-gupta-123/Sentimental-Analysis/main/sentiment_analysis/possitive%20review.jpg)
 
 
 ---
