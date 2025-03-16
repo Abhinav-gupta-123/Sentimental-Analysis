@@ -125,10 +125,6 @@ Enter your review: "The product quality is amazing!"
 Predicted Sentiment: ✅ Positive
 
 
-
-
-
-
 Enter your review: "Worst service ever. Very disappointed."
 
 
